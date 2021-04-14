@@ -1,0 +1,19 @@
+{
+  "name": "NAFT",
+  "version": "1.0.0",
+  "description": "NAFT is the native ERC20 Ethereum token for the Nafty Platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nafty-nft/NAFT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.0.0"
+  }
+}
